@@ -20,11 +20,37 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## API Endpoints
 
+### Todo's
+
 - GET `/todos`: Fetch all todos
 - POST `/todo/new`: Create a new todo
 - DELETE `/todo/delete/:id`: Delete a todo by ID
 - PUT `/todo/complete/:id`: Mark a todo as complete
 - PUT `/todo/update/:id`: Update a todo
+
+### Journals
+
+GET /journals: Fetch all journals
+
+POST /journal/new: Create a new journal
+
+DELETE /journal/delete/:id: Delete a journal by ID
+
+PUT /journal/update/:id: Update a journal
+
+### Users
+
+GET /users: Fetch all users
+
+POST /user/new: Create a new user
+
+POST /user/login: Login a user
+
+DELETE /user/delete/:id: Delete a user by ID
+
+PUT /user/update/:id: Update a user
+
+GET /user/profile: Get a user's profile
 
 ## Running Tests
 
