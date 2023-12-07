@@ -69,5 +69,3 @@ Run `npm test` to execute the unit tests via Jest.
 ## License
 
 This project is licensed under the ISC License.
-
-blablabla
