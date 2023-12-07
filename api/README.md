@@ -38,7 +38,7 @@ Run `npm test` to execute the unit tests via Jest.
 
 ## Author
 
-- Your Name
+- Bedrot
 
 ## License
 
